@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Merhaba 👋, Ben Emine ÖZTÜRK</h1>
+<h2 align="center">Türkiye'de Bilgisayar Mühendisiyim </h2>
 
-<!--
-**ozturkemine/ozturkemine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ÖZET
 
-Here are some ideas to get you started:
+<p align="left"><img src="https://komarev.com/ghpvc/?username=ozturkemine&label=Profile%20Views&color=0e75b6&style=flat" alt="Emine Öztürk" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ozturkemine&show_icons=true&theme=buefy&locale=tr" alt="Emine Öztürk" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozturkemine&theme=buefy" alt="Emine Öztürk" /></p>
+
+
+&nbsp;
