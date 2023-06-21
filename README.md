@@ -7,5 +7,5 @@
 
 
 
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Emine Öztürk" /></a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozturkemine&show_icons=true&theme=buefy&locale=tr" alt="Emine Öztürk" /></a> |
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozturkemine&layout=compact" alt="Emine Öztürk" /></a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozturkemine&show_icons=true&theme=buefy&locale=tr" alt="Emine Öztürk" /></a> |
 | ---- | ---- |
